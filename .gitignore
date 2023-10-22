@@ -26,3 +26,5 @@ Hangzhou-mobility-data-set/record_2019-01-24.csv
 Hangzhou-mobility-data-set/record_2019-01-25.csv
 Hangzhou-mobility-data-set/HangzhouMeteoData.csv
 Hangzhou-mobility-data-set.zip
+best_random_forest_model.pkl
+best_xgboost_model.pkl
