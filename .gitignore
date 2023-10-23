@@ -28,3 +28,4 @@ Hangzhou-mobility-data-set/HangzhouMeteoData.csv
 Hangzhou-mobility-data-set.zip
 best_random_forest_model.pkl
 best_xgboost_model.pkl
+best_xgboost_model_entrada.pkl
